@@ -4,7 +4,7 @@
 
    Member name : Ngoc Tran [ntran12 (github.com)] (https://github.com/ntran12)
 
-   
+   Member name : Ulises Duran [UJDuran (github.com)] (https://github.com/UJDuran)   
 
    
 
