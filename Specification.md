@@ -2,17 +2,4 @@
 
 2. Member name: Danh Pham [emthangtrung (github.com)](https://github.com/emthangtrung)
 
-3. Product name: still thinking
-
-4. 
-
-   
-
-   
-
-   
-
-   
-
-   
-
+   Member name : Ngoc Tran [ntran12 (github.com)] (https://github.com/ntran12)
