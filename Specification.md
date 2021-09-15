@@ -4,7 +4,7 @@
 
    Member name : Ngoc Tran [ntran12 (github.com)] (https://github.com/ntran12)
 
-   
+Hello, my name is Thinh, today is 9/14/2021   
 
    
 
