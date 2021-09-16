@@ -234,7 +234,7 @@ end case: go back to home
 
 **Use Case Name:** 
 
-##### Actors
+##### Actors: user
 
 ##### Preconditions
 
@@ -255,9 +255,9 @@ end case: go back to home
 
 
 
-## Use Case #8 Description
+## Use Case #8 Render markdown notes
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -267,7 +267,7 @@ end case: go back to home
 
 **Use Case Name:** 
 
-##### Actors
+##### Actors: users
 
 ##### Preconditions
 
