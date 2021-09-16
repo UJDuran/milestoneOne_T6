@@ -487,7 +487,7 @@ User
 
 ## Use Case #11 Description
 
-**Date:** 
+**Date:** 09-15-2021 
 
 **Product Name:** Study Hub
 
@@ -495,25 +495,35 @@ User
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** Share Notes With Other People 
 
 ##### Actors
+Users
 
 ##### Preconditions
+1. User must have an account to share Notes 
+2. User must have notes to share
 
 ##### Triggers
-
+1. User clicks on "Share Note"
 
 ##### Primary Sequence
-
+1. User goes to desired note they want to share
+2. User clicks on "Share Notes"
+3. User will confirm if they want to share
+ 
 **Primary Postconditions**
+1. User has shared their notes
 
 ##### Alternate Trigger
+1. User clicks on "View Notes"
 
 ##### Alternative Sequences
+1. User goes to desired Note
+2. User clicks on "View Notes"
 
 ##### Alternate Postconditions
-
+1. Notes must be shared either by them or another user
 
 
 
