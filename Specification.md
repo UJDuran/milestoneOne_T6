@@ -1,5 +1,5 @@
 # **CMPE131 Project Team 6**
-
+<a href=""><img src="https://i.ibb.co/cTKmRgG/StudyHub.png" alt="StudyHub" border="0"></a><br /><a target='_blank' href=''></a><br />
 #### Member name:
 
 Danh Pham (https://github.com/emthangtrung)
@@ -247,7 +247,7 @@ Make user's folder clearly.
 
 
 
-## Use Case #5 Description: Change the order of flashcards based on how often user got answer correctly
+## Use Case #5: Change the order of flashcards based on how often user got answer correctly
 
 **Date:** 9/15/2021 
 
@@ -283,7 +283,7 @@ Make user's folder clearly.
 
 
 
-## Use Case #6 Create pdf of flash card to print
+## Use Case #6: Create pdf of flash card to print
 
 **Date:** 9/15/2021 8:10 pm 
 
@@ -321,7 +321,7 @@ end case: go back to home
 
 
 
-## Use Case #7 Mind map of flash cards
+## Use Case #7: Mind map of flash cards
 
 **Date: 9/15/2021
 
@@ -355,8 +355,6 @@ end case: go back to home
 
 
 ## Use Case #8 Render markdown notes
-
-![alt text](https://ataglanceanimehome.files.wordpress.com/2021/06/mugentrain.jpg)
 
 **Date:** 9/15/2021
 
