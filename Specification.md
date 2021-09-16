@@ -259,11 +259,14 @@ Make user's folder clearly.
 
 **Use Case Name:** check answers
 
-##### Actors: users
+##### Actors:
+ users
 
-##### Preconditions: if answer is correct
+##### Preconditions:
+ if answer is correct
 
-##### Triggers: flashcard to change their position automatically
+##### Triggers:
+ flashcard to change their position automatically
 
 ##### Primary Sequence: 
 1. get answer from user
@@ -273,13 +276,15 @@ Make user's folder clearly.
 
 **Primary Postconditions**: answer must be filled
 
-##### Alternate Trigger: prompt user to answer the questions
+##### Alternate Trigger:
+ prompt user to answer the questions
 
 ##### Alternative Sequences:
 1. if answer is blank -> prompt a message
 2. else -> trigger to check answer
 
-##### Alternate Postconditions: save log
+##### Alternate Postconditions:
+ save log
 
 
 
@@ -289,25 +294,30 @@ Make user's folder clearly.
 
 **Product Name:** Study Hub
 
-**Problem Statement: a button to print
+**Problem Statement:**  a button to print
 
-**Non-functional Requirements:**quality
+**Non-functional Requirements:** quality
 
 **Use Case Name:** create pdf file
 
-##### Actors: users
+##### Actors:
+ users
 
-##### Preconditions: a "Print" button
+##### Preconditions:
+ a "Print" button
 
-##### Triggers: create pdf method
+##### Triggers:
+ create pdf method
 
 
 ##### Primary Sequence: 
 1. when button is clicked -> trigger to print
 
-**Primary Postconditions**: answer can be filled or unfilled
+##### Primary Postconditions:
+ answer can be filled or unfilled
 
-##### Alternate Trigger: prompt user to [Yes] to print [No] to cancel
+##### Alternate Trigger:
+ prompt user to [Yes] to print [No] to cancel
 
 ##### Alternative Sequences: 
 1. if button is clicked -> prompt a message
