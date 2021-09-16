@@ -350,20 +350,31 @@ Flashcards
 
 ##### Triggers:
 Solution for each flashcard
+A chat box with tutor
 
 ##### Primary Sequence:
 1. Select the best study subject
 2. Find study resources
 3. Search questions by multiple types
 4. Ask tutors for help
+5. Practice
 
 **Primary Postconditions**
+Help users learn from flash cards 
+##### Alternate Trigger:
+1. a search box
+2. a filter
+3. a chat box
+4. email box
 
-##### Alternate Trigger
+##### Alternative Sequences:
+1. if user click search -> trigger a filter
+2. find best match materials word by word
+3. if problem not found -> trigger to chat box
+4. find the best match tutor
 
-##### Alternative Sequences
-
-##### Alternate Postconditions
+##### Alternate Postconditions:
+Submit question and wait for respond
 
 
 
