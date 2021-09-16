@@ -34,10 +34,11 @@ https://github.com/UJDuran/milestoneOne_T6.git
 Everyone
 
 ##### Preconditions
-New User
-Have email account to sign up.
+- New User
+- Have email account to sign up.
+
 ##### Triggers
-New user clicks on option “Join us”
+- New user clicks on option “Join us”
 
 ##### Primary Sequence
 1.	New users click on option “Join us”.
@@ -53,10 +54,10 @@ New user clicks on option “Join us”
 11.	System sends a confirmation email to the user’s email.
 
 ##### Primary Postconditions
-Users can log in to use the app.
+- Users can log in to use the app.
 
 ##### Alternate Triggers
-Users enter information in section where the system displays error again until the system does not display error message
+- Users enter information in section where the system displays error again until the system does not display error message
 
 ##### Alternate Sequences
 Username which user enter, was used.
@@ -72,7 +73,7 @@ Email which user enter, was used
 - The system prompts user to enter a different email.
 
 ##### Alternate Postconditions
-User can sign up.
+- User can sign up.
 
 
 
@@ -90,16 +91,16 @@ User can sign up.
 **Use Case Name:** Delete an Account 
 
 ##### Summary
-Users can delete an account if they want.
+- Users can delete an account if they want.
 
 ##### Actors
-All users
+- All users
 
 ##### Preconditions
-Users must have an account.
+- Users must have an account.
 
 ##### Triggers
-Users click on option "Delete"
+- Users click on option "Delete"
 
 ##### Primary Sequence
 1.	The user clicks on “setting” on menu bar.
@@ -109,25 +110,28 @@ Users click on option "Delete"
 5.	System sends a confirmation to user’s email.
 
 ##### Primary Postconditions
-Users cannot log in to system anymore.
+- Users cannot log in to system anymore.
 
 ##### Aternate Squences
-Users click on option "Cancel"
+- Users click on option "Cancel"
 
 ##### Alternate Sequences
-<<<<<<< HEAD
-Users change their mind, or they click on delete an account by mistake.
+- Users change their mind, or they click on delete an account by mistake.
+
 - System prompts the user to confirm.
-- User click cancel (No).
-=======
-1)	Users change their mind, or they click on delete an account by mistake.
+
+- User click cancel (No)
+
+  
+
+  1. Users change their mind, or they click on delete an account by mistake.
 
  	*System prompts the user to confirm.
  	*User click cancel (No).
->>>>>>> danhBranch
+
 
 ##### Alternate Postconditions
-Users still have an account to log in.
+- Users still have an account to log in.
 
 
 
@@ -145,15 +149,16 @@ Users still have an account to log in.
 **Use Case Name:** Input a markdown file and output flash cards.
 
 ##### Actors
-All users
+- All users
 
 ##### Preconditions
-Users have account.
-Users have flashcards.
-Markdown file should be provide as input
+- Users have account.
+- Users have flashcards.
+- Markdown file should be provide as input
 
 ##### Triggers
-With input a markdown file: 
+- With input a markdown file: 
+
 - Users input file
 
 With output flashcard: 
@@ -182,8 +187,9 @@ With output flashcard:
 - Users can download their flashcard to phone, so users can see it everywhere. Also, users can share useful information to their friends.
 
 ##### Alternate Triggers
-<<<<<<< HEAD
+
 With input a markdown file: 
+
 - Users check the file is saved or not
 
 With output flashcard: 
@@ -195,9 +201,12 @@ With input a markdown file:
 
 With output flashcard: 
 - Users save or share without internet
+
 - System displays an error message to user.
+
 - System prompts user turn on internet.
-=======
+
+  
 1.	With input a markdown file: 
 
  	*Users check the file is saved or not
@@ -216,21 +225,21 @@ With output flashcard:
  	*Users save or share without internet
  	*System displays an error message to user.
  	*System prompts user turn on internet.
->>>>>>> danhBranch
+
 
 ##### Alternate Postconditions
 With input a markdown file:	
 - Users successfully input a markdown file.
 
-<<<<<<< HEAD
 With output flashcard:
+
 - Users successfully download/send.
-=======
-2.	With output flashcard:
+
+
+
+2. With output flashcard:
 
  	*Users successfully download/send.
->>>>>>> danhBranch
-
 
 
 
@@ -247,13 +256,13 @@ With output flashcard:
 **Use Case Name:** Share flash cards (add to their account) 
 
 ##### Actors
-All users
+- All users
 
 ##### Preconditions
-User must has at least one flashcard.
+- User must has at least one flashcard.
 
 ##### Triggers
-User click on heart icon on the front-right of that flashcard.
+- User click on heart icon on the front-right of that flashcard.
 
 ##### Primary Sequence
 1.	Users choose which flashcard they want to share (save) to their account
@@ -264,7 +273,7 @@ User click on heart icon on the front-right of that flashcard.
 6.	System saves that flashcard to the user’s folder
 
 ##### Primary Postconditions
-That flashcard is saved in user’s folder
+- That flashcard is saved in user’s folder
 
 ##### Alternate Triggers
 1.	Users click to the flashcard and hold 
@@ -272,10 +281,10 @@ That flashcard is saved in user’s folder
 3.	Users click option “delete”
 
 ##### Alternative Squences
-Users change their mind that they don’t want to save.
+- Users change their mind that they don’t want to save.
 
 ##### Alternate Postconditions
-Less flashcard in user's folder
+- Less flashcard in user's folder
 
 
 
@@ -293,13 +302,13 @@ Less flashcard in user's folder
 **Use Case Name:** check answers
 
 ##### Actors:
- Users
+- Users
 
 ##### Preconditions:
- If answer is correct
+- If answer is correct
 
 ##### Triggers:
- Flashcard to change their position automatically
+- Flashcard to change their position automatically
 
 ##### Primary Sequence: 
 1. Get answer from user
@@ -310,14 +319,14 @@ Less flashcard in user's folder
 **Primary Postconditions**: answer must be filled
 
 ##### Alternate Trigger:
- Prompt user to answer the questions
+- Prompt user to answer the questions
 
 ##### Alternative Sequences:
 1. If answer is blank -> prompt a message
 2. Else -> trigger to check answer
 
 ##### Alternate Postconditions:
- Save log
+- Save log
 
 
 
@@ -334,23 +343,23 @@ Less flashcard in user's folder
 **Use Case Name:** create pdf file
 
 ##### Actors:
- users
+- users
 
 ##### Preconditions:
- a "Print" button
+- a "Print" button
 
 ##### Triggers:
- create pdf method
+-  create pdf method
 
 
 ##### Primary Sequence: 
 1. when button is clicked -> trigger to print
 
 ##### Primary Postconditions:
- answer can be filled or unfilled
+- answer can be filled or unfilled
 
 ##### Alternate Trigger:
- prompt user to [Yes] to print [No] to cancel
+- prompt user to [Yes] to print [No] to cancel
 
 ##### Alternative Sequences: 
 1. if button is clicked -> prompt a message
@@ -358,7 +367,7 @@ Less flashcard in user's folder
 3. else -> trigger to cancel
 
 ##### Alternate Postconditions:
-end case: go back to home
+- end case: go back to home
 
 
 
@@ -366,7 +375,7 @@ end case: go back to home
 
 ## Use Case #7: Mind map of flash cards
 
-**Date: 9/15/2021
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -377,14 +386,14 @@ end case: go back to home
 **Use Case Name:** Creative Solutions
 
 ##### Actors:
- user
+- user
 
 ##### Preconditions:
-Flashcards
+- Flashcards
 
 ##### Triggers:
-Solution for each flashcard
-A chat box with tutor
+- Solution for each flashcard
+- A chat box with tutor
 
 ##### Primary Sequence:
 1. Select the best study subject
@@ -394,7 +403,9 @@ A chat box with tutor
 5. Practice
 
 **Primary Postconditions**
-Help users learn from flash cards 
+
+- Help users learn from flash cards 
+
 ##### Alternate Trigger:
 1. a search box
 2. a filter
@@ -408,7 +419,7 @@ Help users learn from flash cards
 4. find the best match tutor
 
 ##### Alternate Postconditions:
-Submit question and wait for respond
+- Submit question and wait for respond
 
 
 
@@ -427,13 +438,13 @@ Submit question and wait for respond
 **Use Case Name:** Markdown
 
 ##### Actors:
- users
+- users
 
 ##### Preconditions:
-software testing
+- software testing
 
 ##### Triggers:
-pdf, html, docx, xml, etc..
+- pdf, html, docx, xml, etc..
 
 ##### Primary Sequence:
 1. a design
@@ -443,12 +454,12 @@ pdf, html, docx, xml, etc..
 5. search engines
 6. launch
 
-
 **Primary Postconditions**:
-Good design
+
+- Good design
 
 ##### Alternate Trigger:
-export to Docx, pdf, html, etc.
+- export to Docx, pdf, html, etc.
 
 ##### Alternative Sequences:
 1. add extra features
@@ -456,7 +467,7 @@ export to Docx, pdf, html, etc.
 3. more capacity
 
 ##### Alternate Postconditions:
-add many functions as needed
+- add many functions as needed
 
 
 
@@ -475,14 +486,14 @@ add many functions as needed
 **Use Case Name:** Converts marked down notes to pdf 
 
 ##### Actors
-User
+- User
 
 ##### Preconditions
-Notes must exist (either from another user or ther own)
-Notes must me marked
+- Notes must exist (either from another user or ther own)
+- Notes must me marked
 
 ##### Triggers
-User clicks on "Conver to PDF"
+- User clicks on "Conver to PDF"
 
 ##### Primary Sequence
 1. User confrims the pdf conversion
@@ -490,11 +501,12 @@ User clicks on "Conver to PDF"
 3. User picks destination for PDF
 4. Message displays that file has been downloaded
 
-##Primary Postconditions
-Pdf has been created in users desired destination
+**Primary Postconditions:**
+
+- Pdf has been created in users desired destination
 
 ##### Alternate Trigger
-User clicks on "Print" button when asked to convert to pdf
+- User clicks on "Print" button when asked to convert to pdf
 
 ##### Alternative Sequences
 1. User confirms the pdf 
@@ -503,7 +515,7 @@ User clicks on "Print" button when asked to convert to pdf
 4. Message displays that file has been printed
 
 ##### Alternate Postconditions
-A hard copy of pdf has been printed 
+- A hard copy of pdf has been printed 
 
 
 
@@ -522,8 +534,8 @@ A hard copy of pdf has been printed
 **Use Case Name:** Create graph (nodes and edges) of connection between notes
 
 ##### Actors
-Notes
-User
+- Notes
+- User
 
 ##### Preconditions
 1. Must have notes saved on their account
@@ -571,7 +583,7 @@ User
 **Use Case Name:** Share Notes With Other People 
 
 ##### Actors
-Users
+- Users
 
 ##### Preconditions
 1. User must have an account to share Notes 
@@ -614,12 +626,12 @@ Users
 **Use Case Name:** Quickly rename files using regular expressions
 
 ##### Actors
-User 
-Website
+- User 
+- Website
 
 ##### Preconditions
-File must exist
-File cannot be renamed the same name
+- File must exist
+- File cannot be renamed the same name
 
 ##### Triggers
 1. User will click on the “Rename” button
