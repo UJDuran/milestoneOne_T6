@@ -20,7 +20,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -53,7 +53,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -86,7 +86,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -119,7 +119,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -152,7 +152,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -185,7 +185,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -218,7 +218,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -251,7 +251,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -284,7 +284,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -317,7 +317,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -350,7 +350,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -383,7 +383,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -416,7 +416,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -449,7 +449,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
@@ -482,7 +482,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Date:** 
 
-**Product Name:** 
+**Product Name:** Study Hub
 
 **Problem Statement:**
 
