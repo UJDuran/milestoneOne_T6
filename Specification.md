@@ -1,5 +1,5 @@
 # **CMPE131 Project Team 6**
-
+![alt text](https://ibb.co/yfvRpd4)
 #### Member name:
 
 Danh Pham (https://github.com/emthangtrung)
