@@ -668,8 +668,6 @@ With output flashcard:
 
 **Problem Statement:** organize time flow 
 
-**Non-functional Requirements:** user
-
 **Actors**: User
 
 **Preconditions:** no need 
@@ -680,25 +678,20 @@ With output flashcard:
 
 ##### Primary Sequence
 
-- User can edit color
-- Set reminder if need
+- system prompt user to create their block by drag to specific time
+
+- user select time to input there work and task
+
+- user can input what they need in time block
 
 **Primary Postconditions**
 
-- Attracted interphase
+- User feel good with  attracted interphase 
 - Increase concentration
 
 **Alternate Trigger:**
 
 - User can click and drag time block to another time frame if want make change
-
-**Alternative Sequences:**
-
-- User click on view time block to add description if need
-
-**Alternate Postconditions:**
-
-- User can view their creation
 
 
 
@@ -726,7 +719,9 @@ With output flashcard:
 
 **Primary Sequence:** 
 
-- Timer automatically alert when time ran out (No need human contact)
+- User input their work time and begin countdown
+
+- Timer automatically alert when time ran out (No need human interaction)
 
 **Primary Postconditions:**
 
@@ -737,12 +732,6 @@ With output flashcard:
 - Space or click for re-timing
 
   
-
-**Alternate Postconditions:**
-
-User now can do their work or break with fix time for more efficiency
-
-
 
 
 
@@ -777,49 +766,44 @@ User now can do their work or break with fix time for more efficiency
 **Primary Postconditions:**
 
 - User control their time flow
-
-**Alternate Trigger:** no need
-
-**Alternative Sequences:** Display where they at
-
-**Alternate Postconditions:**
-
 - User now can track their schedule more easy and attractive
 
 
 
 
 
-## Use Case #16 add to do tracker
+## Use Case #16 add to do list or tracker
 
 **Date:** 9/16/2021
 
 **Product Name:** Study Hub
 
-**Problem Statement:** help user 
+**Problem Statement:** help user make to do list
 
 **Non-functional Requirements:**
 
-##### Actors
+- tick box for job done
 
-##### Preconditions
+**Actors:** User
 
-##### Triggers
+**Preconditions:** open to do list on the right of the app
 
+##### Triggers:
 
-##### Primary Sequence
+- Click "to do list" button to open
+
+##### Primary Sequence:
+
+- User input there task
+- Tick for mark as done job
 
 **Primary Postconditions**
 
-##### Alternate Trigger
+- User can see what they have done to keep work flow more efficient
 
-##### Alternative Sequences
+##### 
 
-##### Alternate Postconditions
-
-
-
-
+##### 
 
 ## Use Case #17 visualize hours worked and project
 
