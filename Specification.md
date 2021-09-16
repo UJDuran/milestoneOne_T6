@@ -160,7 +160,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Use Case Name:** check answers
 
-##### Actors: Thinh Vo
+##### Actors: users
 
 ##### Preconditions: if answer is correct
 
