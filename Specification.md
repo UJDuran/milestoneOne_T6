@@ -58,17 +58,20 @@ Users can log in to use the app.
 Users enter information in section where the system displays error again until the system does not display error message
 
 ##### Alternate Sequences
-1. Username which user enter, was used
-   *The system displays an error message to the user
-   *The system prompt user to enter a valid username
+1.	 Username which user enter, was used.
 
-2. Password which user enter, does not meet the requirement
-    *The system displays an error message to the user
-    *The system prompt user to enter a valid password
+  	 *The system displays an error message to the user
+   	 *The system prompt user to enter a valid username
 
-3. Email which user enter, was used
-     *The system displays an error message to the user
-     *The system prompts user to enter a different email
+2. 	Password which user enter, does not meet the requirement
+    	
+	*The system displays an error message to the user
+    	*The system prompt user to enter a valid password
+
+3. 	Email which user enter, was used
+     	
+	*The system displays an error message to the user
+     	*The system prompts user to enter a different email
 
 ##### Alternate Postconditions
 User can sign up.
