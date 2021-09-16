@@ -23,12 +23,9 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** Help users log in to use the app
 
-**Non-functional Requirements:**
-
-
-
+**Non-functional Requirements:** Confirmation Emails should be sent within 1 hours.
 
 **Use Case Name:** Create an Account
 
@@ -58,18 +55,18 @@ New user clicks on option “Join us”
 Users can log in to use the app.
 
 ##### Alternate Triggers
-Users enter information until the system does not display erroe message.
+Users enter information in section where the system displays error again until the system does not display error message
 
 ##### Alternate Sequences
-•	Username which user enter, was used
-o	The system displays an error message to the user
-o	The system prompt user to enter a valid username
-•	Password which user enter, does not meet the requirement
-o	The system displays an error message to the user
-o	The system prompt user to enter a valid password
-•	Email which user enter, was used
-o	The system displays an error message to the user
-o	The system prompts user to enter a different email
+1)	Username which user enter, was used
+a.	The system displays an error message to the user
+b.	The system prompt user to enter a valid username
+2)	Password which user enter, does not meet the requirement
+a.	The system displays an error message to the user
+b.	The system prompt user to enter a valid password
+3)	Email which user enter, was used
+a.	The system displays an error message to the user
+b.	The system prompts user to enter a different email
 
 ##### Alternate Postconditions
 User can sign up.
@@ -83,12 +80,9 @@ User can sign up.
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** Help users delete an account
 
-**Non-functional Requirements:**
-
-
-
+**Non-functional Requirements:** Respond to delete confirmation within 1 minutes.
 
 **Use Case Name:** Delete an Account 
 
@@ -118,9 +112,9 @@ Users cannot log in to system anymore.
 Users click on option "Cancel"
 
 ##### Alternate Sequences
-•	Users change their mind, or they click on delete an account by mistake
-o	System prompts the user to confirm
-o	User click cancel
+1)	Users change their mind, or they click on delete an account by mistake
+a)	System prompts the user to confirm
+b)	User click cancel (No)
 
 ##### Alternate Postconditions
 Users still have an account to log in.
@@ -134,12 +128,9 @@ Users still have an account to log in.
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** Help users see and share flashcard easier
 
-**Non-functional Requirements:**
-
-
-
+**Non-functional Requirements:** User can choose color for markdown file
 
 **Use Case Name:** Input a markdown file and output flash cards.
 
@@ -151,9 +142,8 @@ Users have account.
 Users have flashcards.
 
 ##### Triggers
-With input a markdown file: Type “##” before a flashcard.
-
-With output flashcard: click option “share” on the top-right of the flashcard.
+1.	With input a markdown file: Type “##” before a flashcard.
+2.	With output flashcard: click option “share” on the top-right of the flashcard.
 
 ##### Primary Sequence
 With input markdown file:
@@ -167,33 +157,35 @@ With output flashcard:
 2.	Users click option “share” on the top-right of that flashcard.
 3.	System prompts some options such as download to user’s phone or share to their friends via message, Facebook, email, etc.
 4.	Users click on option they choose.
+5.	Users confirm by clicking download/send.
 
-**Primary Postconditions**
-With input a markdown file: Make flashcard easier to read
+##### Primary Postconditions
+1.	With input a markdown file: Make flashcard easier to read
 
-With output flashcard: Can download their flashcard to phone, so users can see it everywhere. Also, users can share useful information to their friends.
+2.	With output flashcard: Can download their flashcard to phone, so users can see it everywhere. Also, users can share useful information to their friends.
 
 ##### Alternate Triggers
-**With input a markdown file:** 
-Users select that flashcard, click option “edit”
-Users delete “##” before the word.
+1.	With input a markdown file: 
+a.	Users select that flashcard which user input a markdown file.
+b.	Users click option “edit” on the right-top of the flashcard.
+c.	Users delete “##” before the word.
 
-**With output flashcard:**
-Users turn on internet in their phone
+2.	With output flashcard: Users turn on internet in their phone.
 
 ##### Alternate Squences
+1.	With input a markdown file: 
+a.	Users change their mind; they do not want to input a markdown file.
 
-**With input a markdown file** 
-Users change their mind; they do not want to input a markdown file.
-
-**With output flashcard**
-Users save or share without internet.
-System displays an error message to user.
-System prompts user turn on internet.
+2.	With output flashcard: 
+a.	Users save or share without internet
+b.	System displays an error message to user.
+c.	System prompts user turn on internet.
  
-
 ##### Alternate Postconditions
-
+1	With input a markdown file.	
+a.	Uers successfully undo.
+2.	With output flashcard
+b.	Users successfully download/send.
 
 
 
@@ -204,12 +196,9 @@ System prompts user turn on internet.
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** Help users save a useful flashcard from others to their folder
 
-**Non-functional Requirements:**
-
-
-
+**Non-functional Requirements:** Users only can save flashcard from another user when they put their flashcard in public.
 
 **Use Case Name:** Share flash cards (add to their account) 
 
@@ -230,19 +219,19 @@ User click on heart icon on the front-right of that flashcard.
 5.	Then users click option “Yes”
 6.	System saves that flashcard to the user’s folder
 
-**Primary Postconditions**
+##### Primary Postconditions
 That flashcard is saved in user’s folder
 
 ##### Alternate Triggers
-Users click to the flashcard and hold 
-System prompts the user some options
-Users click option “delete”
+1.	Users click to the flashcard and hold 
+2.	System prompts the user some options
+3.	Users click option “delete”
 
 ##### Alternative Squences
 Users change their mind that they don’t want to save.
 
 ##### Alternate Postconditions
-Make user's folder clearly.
+Less flashcard in user's folder
 
 
 
