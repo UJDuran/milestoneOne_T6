@@ -12,7 +12,6 @@ Thinh Vo (https://github.com/kiemkhach2020)
 
 #### Main Github repo:
 
-<<<<<<< HEAD
 =======
 https://github.com/UJDuran/milestoneOne_T6.git
 
@@ -20,7 +19,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 ## Use Case #1 Description
 
-**Date:** 
+**Date:** 09/15/2021
 
 **Product Name:** Study Hub
 
@@ -28,25 +27,49 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** Create an Account
 
 ##### Actors
+Everyone
 
 ##### Preconditions
-
+New User
+Have email account to sign up
 ##### Triggers
-
+New user clicks on option “Join us”
 
 ##### Primary Sequence
+1.	New users click on option “Join us”
+2.	New users fill out some information such as first name, last name, date of birth, sex
+3.	New users create their username 
+4.	System checks the username is available or not
+5.	New users create their own password
+6.	System check password meet the requirement or not
+7.	New users enter their email
+8.	System check email was used or not
+9.	New users click summit option at the end of platform
+10.	System creates a new user 
+11.	System sends a confirmation email to the user’s email
 
-**Primary Postconditions**
+##### Primary Postconditions
+Users can log in to use the app
 
-##### Alternate Trigger
+##### Alternate Sequences
+•	Username which user enter, was used
+The system displays an error message to the user
+The system prompt user to enter a valid username
+•	Password which user enter, does not meet the requirement
+The system displays an error message to the user
+The system prompt user to enter a valid password
+•	Email which user enter, was used
+The system displays an error message to the user
+The system prompts user to enter a different email
 
-##### Alternative Sequences
+##### Alternative Triggers
+Users enter information again until the system does not display error message
 
 ##### Alternate Postconditions
-
+User can sign up
 
 
 
