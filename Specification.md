@@ -397,20 +397,33 @@ Submit question and wait for respond
  users
 
 ##### Preconditions:
-Write documents in plain text
+software testing
 
 ##### Triggers:
 pdf, html, docx, xml, etc..
 
-##### Primary Sequence
+##### Primary Sequence:
+1. a design
+2. content    
+3. domain
+4. create the site
+5. search engines
+6. launch
 
-**Primary Postconditions**
 
-##### Alternate Trigger
+**Primary Postconditions**:
+Good design
 
-##### Alternative Sequences
+##### Alternate Trigger:
+export to Docx, pdf, html, etc.
 
-##### Alternate Postconditions
+##### Alternative Sequences:
+1. add extra features
+2. redesign
+3. more capacity
+
+##### Alternate Postconditions:
+add many functions as needed
 
 
 
