@@ -12,7 +12,7 @@ Thinh Vo (https://github.com/kiemkhach2020)
 
 #### Main Github repo:
 
-=======
+
 https://github.com/UJDuran/milestoneOne_T6.git
 
 
@@ -190,7 +190,7 @@ Users change their mind; they do not want to input a markdown file.
 Users save or share without internet.
 System displays an error message to user.
 System prompts user turn on internet.
- 
+
 
 ##### Alternate Postconditions
 
@@ -283,13 +283,13 @@ Make user's folder clearly.
 
 
 
-## Use Case #6 Description
+## Use Case #6 Create pdf of flash card to print
 
 **Date:** 9/15/2021 8:10 pm 
 
 **Product Name:** Study Hub
 
-**Problem Statement:**Create pdf of flash card to print
+**Problem Statement: a button to print
 
 **Non-functional Requirements:**quality
 
@@ -355,6 +355,8 @@ end case: go back to home
 
 
 ## Use Case #8 Render markdown notes
+
+![alt text](https://ataglanceanimehome.files.wordpress.com/2021/06/mugentrain.jpg)
 
 **Date:** 9/15/2021
 
@@ -551,7 +553,7 @@ User
 
 ## Use Case #13 Description
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -559,7 +561,7 @@ User
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** Create time block
 
 ##### Actors
 
@@ -584,7 +586,7 @@ User
 
 ## Use Case #14 Description
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -592,7 +594,7 @@ User
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** use pomodoro timer
 
 ##### Actors
 
@@ -617,7 +619,7 @@ User
 
 ## Use Case #15 Description
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -625,7 +627,7 @@ User
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** visualize time blocks
 
 ##### Actors
 
@@ -643,17 +645,10 @@ User
 ##### Alternative Sequences
 
 ##### Alternate Postconditions
-<<<<<<< HEAD
->>>>>>> aad745684d496f79d265504747623ca1a90a8e59
-=======
-
-
-
-
 
 ## Use Case #16 Description
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -661,7 +656,7 @@ User
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** add to do tracker
 
 ##### Actors
 
@@ -686,7 +681,7 @@ User
 
 ## Use Case #17 Description
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -694,7 +689,7 @@ User
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** visualize hours worked and project
 
 ##### Actors
 
@@ -712,4 +707,3 @@ User
 ##### Alternative Sequences
 
 ##### Alternate Postconditions
->>>>>>> 208c89b9099419ff66d9e374b5546715a299769f
