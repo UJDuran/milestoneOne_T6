@@ -506,3 +506,69 @@ https://github.com/UJDuran/milestoneOne_T6.git
 ##### Alternative Sequences
 
 ##### Alternate Postconditions
+
+
+
+
+
+## Use Case #16 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #17 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
