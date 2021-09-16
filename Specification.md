@@ -12,7 +12,7 @@ Thinh Vo (https://github.com/kiemkhach2020)
 
 #### Main Github repo:
 
-=======
+
 https://github.com/UJDuran/milestoneOne_T6.git
 
 
@@ -190,7 +190,7 @@ Users change their mind; they do not want to input a markdown file.
 Users save or share without internet.
 System displays an error message to user.
 System prompts user turn on internet.
- 
+
 
 ##### Alternate Postconditions
 
@@ -537,7 +537,7 @@ A hard copy of pdf has been printed
 
 ## Use Case #13 Description
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -545,7 +545,7 @@ A hard copy of pdf has been printed
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** Create time block
 
 ##### Actors
 
@@ -570,7 +570,7 @@ A hard copy of pdf has been printed
 
 ## Use Case #14 Description
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -578,7 +578,7 @@ A hard copy of pdf has been printed
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** use pomodoro timer
 
 ##### Actors
 
@@ -603,7 +603,7 @@ A hard copy of pdf has been printed
 
 ## Use Case #15 Description
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -611,7 +611,7 @@ A hard copy of pdf has been printed
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** visualize time blocks
 
 ##### Actors
 
@@ -629,17 +629,10 @@ A hard copy of pdf has been printed
 ##### Alternative Sequences
 
 ##### Alternate Postconditions
-<<<<<<< HEAD
->>>>>>> aad745684d496f79d265504747623ca1a90a8e59
-=======
-
-
-
-
 
 ## Use Case #16 Description
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -647,7 +640,7 @@ A hard copy of pdf has been printed
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** add to do tracker
 
 ##### Actors
 
@@ -672,7 +665,7 @@ A hard copy of pdf has been printed
 
 ## Use Case #17 Description
 
-**Date:** 
+**Date:** 9/15/2021
 
 **Product Name:** Study Hub
 
@@ -680,7 +673,7 @@ A hard copy of pdf has been printed
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** visualize hours worked and project
 
 ##### Actors
 
@@ -698,4 +691,3 @@ A hard copy of pdf has been printed
 ##### Alternative Sequences
 
 ##### Alternate Postconditions
->>>>>>> 208c89b9099419ff66d9e374b5546715a299769f
