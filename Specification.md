@@ -55,15 +55,15 @@ New user clicks on option “Join us”
 Users can log in to use the app.
 
 ##### Alternate Sequences
-•	Username which user enter, was used.
-	The system displays an error message to the user.
-	The system prompt user to enter a valid username.
-•	Password which user enter, does not meet the requirement.
-	The system displays an error message to the user.
-	The system prompt user to enter a valid password.
-•	Email which user enter, was used.
-	The system displays an error message to the user.
-	The system prompts user to enter a different email.
+•Username which user enter, was used.
+The system displays an error message to the user.
+The system prompt user to enter a valid username.
+•Password which user enter, does not meet the requirement.
+The system displays an error message to the user.
+The system prompt user to enter a valid password.
+•Email which user enter, was used.
+The system displays an error message to the user.
+The system prompts user to enter a different email.
 
 ##### Alternative Triggers
 Users enter information again until the system does not display error message.
@@ -109,8 +109,8 @@ Users click on option "Delete"
 Users cannot log in to system anymore.
 
 ##### Alternate Sequences
-•	Users change their mind, or they click on delete an account by mistake.
-	System prompts the user to confirm.
+•Users change their mind, or they click on delete an account by mistake.
+System prompts the user to confirm.
 
 ##### Alternative Trigger
 Users click on option "Cancel"
@@ -123,7 +123,7 @@ Users still have an account to log in.
 
 ## Use Case #3 Description
 
-**Date:** 
+**Date:** 09/15/2021 
 
 **Product Name:** Study Hub
 
@@ -131,22 +131,54 @@ Users still have an account to log in.
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** Input a markdown file and output flash cards.
 
 ##### Actors
+All users
 
 ##### Preconditions
+Users have account.
+Users have flashcards.
 
 ##### Triggers
+With input a markdown file: Type “##” before a flashcard.
 
+With output flashcard: click option “share” on the top-right of the flashcard.
 
 ##### Primary Sequence
+With input markdown file:
+1.	Users click option “create”
+2.	System prompts 2 text boxes (front and back card) for user to fill out. 
+3.	In the text box (front card), user type “##” before type word in flashcard.
+4.	System automatically make flashcard into markdown file.
+
+With output flashcard:
+1.	Users click on flashcard which users want to share.
+2.	Users click option “share” on the top-right of that flashcard.
+3.	System prompts some options such as download to user’s phone or share to their friends via message, Facebook, email, etc.
+4.	Users click on option they choose.
 
 **Primary Postconditions**
+With input a markdown file: Make flashcard easier to read
 
-##### Alternate Trigger
+With output flashcard: Can download their flashcard to phone, so users can see it everywhere. Also, users can share useful information to their friends.
 
-##### Alternative Sequences
+##### Alternate Ssquences
+•With input a markdown file: 
+Users change their mind; they do not want to input a markdown file.
+
+•With output flashcard: 
+Users save or share without internet
+System displays an error message to user.
+System prompts user turn on internet.
+ 
+##### Alternative Trigger
+•With input a markdown file: 
+Users select that flashcard, click option “edit”
+Users delete “##” before the word.
+
+•With output flashcard: Users turn on internet in their phone
+
 
 ##### Alternate Postconditions
 
