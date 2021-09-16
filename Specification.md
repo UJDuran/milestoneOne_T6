@@ -569,7 +569,7 @@ Users
 
 **Problem Statement:**
 
-**Non-functional Requirements:**
+**Non-functional Requirements:** user
 
 **Use Case Name:** Create time block
 
@@ -600,20 +600,23 @@ Users
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** feature that user can track there time while studying
 
-**Non-functional Requirements:**
+**Non-functional Requirements:** timer can be display or non display for user
 
 **Use Case Name:** use pomodoro timer
 
-##### Actors
+**Actors:** all user
 
-##### Preconditions
+**Preconditions:** no need so user can use it asap and no annoy
 
-##### Triggers
+**Triggers:** 
 
+- Timer must be input amount of time they want to remind
 
-##### Primary Sequence
+- Timer can be start when user hit "SPACE"
+
+**Primary Sequence:** Timer will alert when time ran out
 
 **Primary Postconditions**
 
