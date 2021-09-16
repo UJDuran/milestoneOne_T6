@@ -60,19 +60,16 @@ Users enter information in section where the system displays error again until t
 
 ##### Alternate Sequences
 1.	 Username which user enter, was used.
-
-  	 *The system displays an error message to the user
-   	 *The system prompt user to enter a valid username
+  	 *The system displays an error message to the user.
+   	 *The system prompt user to enter a valid username.
 
 2. 	Password which user enter, does not meet the requirement
-    	
-	*The system displays an error message to the user
-    	*The system prompt user to enter a valid password
+    	*The system displays an error message to the user.
+ 	*The system prompt user to enter a valid password.
 
 3. 	Email which user enter, was used
-     	
-	*The system displays an error message to the user
-     	*The system prompts user to enter a different email
+     	*The system displays an error message to the user.
+     	*The system prompts user to enter a different email.
 
 ##### Alternate Postconditions
 User can sign up.
@@ -118,9 +115,9 @@ Users cannot log in to system anymore.
 Users click on option "Cancel"
 
 ##### Alternate Sequences
-1)	Users change their mind, or they click on delete an account by mistake
-a)	System prompts the user to confirm
-b)	User click cancel (No)
+1)	Users change their mind, or they click on delete an account by mistake.
+ 	*System prompts the user to confirm.
+ 	*User click cancel (No).
 
 ##### Alternate Postconditions
 Users still have an account to log in.
@@ -146,17 +143,19 @@ All users
 ##### Preconditions
 Users have account.
 Users have flashcards.
+Markdown file should be provide as input
 
 ##### Triggers
-1.	With input a markdown file: Type “##” before a flashcard.
+1.	With input a markdown file: users input file
 2.	With output flashcard: click option “share” on the top-right of the flashcard.
 
 ##### Primary Sequence
 With input markdown file:
 1.	Users click option “create”
 2.	System prompts 2 text boxes (front and back card) for user to fill out. 
-3.	In the text box (front card), user type “##” before type word in flashcard.
-4.	System automatically make flashcard into markdown file.
+3.	Users input a markdown file
+4.	System recognizes the file
+5.	System automatically make flashcard into markdown file.
 
 With output flashcard:
 1.	Users click on flashcard which users want to share.
@@ -172,34 +171,26 @@ With output flashcard:
 
 ##### Alternate Triggers
 1.	With input a markdown file: 
-a.	Users select that flashcard which user input a markdown file.
-b.	Users click option “edit” on the right-top of the flashcard.
-c.	Users delete “##” before the word.
+ 	*Users check the file is saved or not
 
-2.	With output flashcard: Users turn on internet in their phone.
+2.	With output flashcard: 
+ 	*Users turn on internet in their phone.
 
 ##### Alternate Squences
 1.	With input a markdown file: 
-a.	Users change their mind; they do not want to input a markdown file.
+ 	*System display an error message if input file is not valid.
 
 2.	With output flashcard: 
-a.	Users save or share without internet
-b.	System displays an error message to user.
-c.	System prompts user turn on internet.
-
-**With input a markdown file** 
-Users change their mind; they do not want to input a markdown file.
-
-**With output flashcard**
-Users save or share without internet.
-System displays an error message to user.
-System prompts user turn on internet.
+ 	*Users save or share without internet
+ 	*System displays an error message to user.
+ 	*System prompts user turn on internet.
 
 ##### Alternate Postconditions
-1	With input a markdown file.	
-a.	Uers successfully undo.
-2.	With output flashcard
-b.	Users successfully download/send.
+1	With input a markdown file:	
+ 	*Users successfully input a markdown file.
+
+2.	With output flashcard:
+ 	*Users successfully download/send.
 
 
 
