@@ -247,36 +247,39 @@ Make user's folder clearly.
 
 
 
-## Use Case #5 Description
+## Use Case #5 Description: Change the order of flashcards based on how often user got answer correctly
 
-**Date:** 
+**Date:** 9/15/2021 
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** calculate the percentage of how many correct and incorrect answers
 
-**Non-functional Requirements:**
+**Non-functional Requirements:** efficiency requirement
 
-**Use Case Name:** 
+**Use Case Name:** check answers
 
-##### Actors
+##### Actors: Thinh Vo
 
-##### Preconditions
+##### Preconditions: if answer is correct
 
-##### Triggers
+##### Triggers: flashcard to change their position automatically
 
+##### Primary Sequence: 
+1. get answer from user
+2. check answer
+3. if answer is corrected -> trigger flashcard to change
+4. else -> no change
 
-##### Primary Sequence
+**Primary Postconditions**: answer must be filled
 
-**Primary Postconditions**
+##### Alternate Trigger: prompt user to answer the questions
 
-##### Alternate Trigger
+##### Alternative Sequences:
+1. if answer is blank -> prompt a message
+2. else -> trigger to check answer
 
-##### Alternative Sequences
-
-##### Alternate Postconditions
-
-
+##### Alternate Postconditions: save log
 
 
 
