@@ -284,22 +284,24 @@ Submit question and wait for respond
 
 ## Use Case #8 Render markdown notes
 
-**Date:** 9/15/2021
+**Date:** 9/16/2021
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** Plaint text formatting
 
-**Non-functional Requirements:**
+**Non-functional Requirements:** Quality
 
-**Use Case Name:** 
+**Use Case Name:** Markdown
 
-##### Actors: users
+##### Actors:
+ users
 
-##### Preconditions
+##### Preconditions:
+Write documents in plain text
 
-##### Triggers
-
+##### Triggers:
+pdf, html, docx, xml, etc..
 
 ##### Primary Sequence
 
