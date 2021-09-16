@@ -391,7 +391,7 @@ end case: go back to home
 
 ## Use Case #9 Description
 
-**Date: 09-15-2021 
+**Date:** 09-15-2021 
 
 **Product Name:** Study Hub
 
@@ -399,7 +399,7 @@ end case: go back to home
 
 **Non-functional Requirements:**
 
-**Use Case Name: Converts marked down notes to pdf 
+**Use Case Name:** Converts marked down notes to pdf 
 
 ##### Actors
 User
@@ -438,7 +438,7 @@ A hard copy of pdf has been printed
 
 ## Use Case #10 Description
 
-**Date:** 
+**Date:** 09-15-2021 
 
 **Product Name:** Study Hub
 
@@ -446,25 +446,41 @@ A hard copy of pdf has been printed
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** Create graph (nodes and edges) of connection between notes
 
 ##### Actors
+Notes
+User
 
 ##### Preconditions
+1. Must have notes saved on their account
 
 ##### Triggers
-
+1. User clicks on "Connections Between Notes" tab
+2. User click on "New Graph"
 
 ##### Primary Sequence
-
+1. User goes to designated tab 
+2. User creates new graph by clicking "New Graph"
+3. User will select notes to draw connection to eachother                                                               4. User clicks on create graph                                                                                          5. System will prompt user to name graph
+4. User clicks on create graph                                                                                          5. System will prompt user to name graph
+5. System will prompt user to name graph
+6. User names and confirms it 
+ 
 **Primary Postconditions**
+1. A graph is created between selected notes 
 
 ##### Alternate Trigger
+1. User clicks on "Connections Between Notes" tab
+2. User clicks on "View graphs"
 
 ##### Alternative Sequences
+1. User goes to designated graph
+2. User clicks on "View Graphs"
+3. User will pick a presaved graph 
 
 ##### Alternate Postconditions
-
+1. User can view their previous saved graph
 
 
 
