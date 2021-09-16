@@ -184,13 +184,13 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 
 
-## Use Case #6 Description
+## Use Case #6 Create pdf of flash card to print
 
 **Date:** 9/15/2021 8:10 pm 
 
 **Product Name:** Study Hub
 
-**Problem Statement:**Create pdf of flash card to print
+**Problem Statement: a button to print
 
 **Non-functional Requirements:**quality
 
