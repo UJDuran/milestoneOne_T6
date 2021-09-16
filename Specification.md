@@ -115,9 +115,16 @@ Users cannot log in to system anymore.
 Users click on option "Cancel"
 
 ##### Alternate Sequences
+<<<<<<< HEAD
 Users change their mind, or they click on delete an account by mistake.
 - System prompts the user to confirm.
 - User click cancel (No).
+=======
+1)	Users change their mind, or they click on delete an account by mistake.
+
+ 	*System prompts the user to confirm.
+ 	*User click cancel (No).
+>>>>>>> danhBranch
 
 ##### Alternate Postconditions
 Users still have an account to log in.
@@ -175,6 +182,7 @@ With output flashcard:
 - Users can download their flashcard to phone, so users can see it everywhere. Also, users can share useful information to their friends.
 
 ##### Alternate Triggers
+<<<<<<< HEAD
 With input a markdown file: 
 - Users check the file is saved or not
 
@@ -189,13 +197,39 @@ With output flashcard:
 - Users save or share without internet
 - System displays an error message to user.
 - System prompts user turn on internet.
+=======
+1.	With input a markdown file: 
+
+ 	*Users check the file is saved or not
+
+2.	With output flashcard: 
+
+ 	*Users turn on internet in their phone.
+
+##### Alternate Squences
+1.	With input a markdown file: 
+
+ 	*System display an error message if input file is not valid.
+
+2.	With output flashcard: 
+
+ 	*Users save or share without internet
+ 	*System displays an error message to user.
+ 	*System prompts user turn on internet.
+>>>>>>> danhBranch
 
 ##### Alternate Postconditions
 With input a markdown file:	
 - Users successfully input a markdown file.
 
+<<<<<<< HEAD
 With output flashcard:
 - Users successfully download/send.
+=======
+2.	With output flashcard:
+
+ 	*Users successfully download/send.
+>>>>>>> danhBranch
 
 
 
@@ -740,13 +774,17 @@ User now can do their work or break with fix time for more efficiency
 
 - User now can track their schedule more easy and attractive
 
+
+
+
+
 ## Use Case #16 add to do tracker
 
 **Date:** 9/16/2021
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** help user 
 
 **Non-functional Requirements:**
 
