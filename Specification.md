@@ -34,7 +34,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 **Use Case Name:** Create an Account
 
 ##### Actors
-Everyone
+- Everyone
 
 ##### Preconditions
 - New User
@@ -119,18 +119,17 @@ Email which user enter, was used
 - Users click on option "Cancel"
 
 ##### Alternate Sequences
-- Users change their mind, or they click on delete an account by mistake.
+Users change their mind, or they click on delete an account by mistake.
 
 - System prompts the user to confirm.
 
 - User click cancel (No)
 
-  
+Users change their mind, or they click on delete an account by mistake.
 
-  1. Users change their mind, or they click on delete an account by mistake.
+- System prompts the user to confirm.
 
- 	*System prompts the user to confirm.
- 	*User click cancel (No).
+- User click cancel (No).
 
 
 ##### Alternate Postconditions
@@ -156,15 +155,16 @@ Email which user enter, was used
 
 ##### Preconditions
 - Users have account.
-- Users have flashcards.
+- Users must have at least one flashcard.
 - Markdown file should be provide as input
 
 ##### Triggers
-- With input a markdown file: 
+With input a markdown file: 
 
 - Users input file
 
 With output flashcard: 
+
 - Click option “share” on the top-right of the flashcard.
 
 ##### Primary Sequence
@@ -187,7 +187,7 @@ With input a markdown file:
 - Make flashcard easier to read
 
 With output flashcard: 
-- Users can download their flashcard to phone, so users can see it everywhere. Also, users can share useful information to their friends.
+- Users can download their flashcard to their phone, so users can see it everywhere. Also, users can share useful information to their friends.
 
 ##### Alternate Triggers
 
@@ -209,27 +209,6 @@ With output flashcard:
 
 - System prompts user turn on internet.
 
-  
-1.	With input a markdown file: 
-
- 	*Users check the file is saved or not
-
-2.	With output flashcard: 
-
- 	*Users turn on internet in their phone.
-
-##### Alternate Squences
-1.	With input a markdown file: 
-
- 	*System display an error message if input file is not valid.
-
-2.	With output flashcard: 
-
- 	*Users save or share without internet
- 	*System displays an error message to user.
- 	*System prompts user turn on internet.
-
-
 ##### Alternate Postconditions
 With input a markdown file:	
 - Users successfully input a markdown file.
@@ -237,13 +216,6 @@ With input a markdown file:
 With output flashcard:
 
 - Users successfully download/send.
-
-
-
-2. With output flashcard:
-
- 	*Users successfully download/send.
-
 
 
 ## Use Case #4: Share flash cards (add to their account) 
@@ -262,7 +234,7 @@ With output flashcard:
 - All users
 
 ##### Preconditions
-- User must has at least one flashcard.
+- Users have an account.
 
 ##### Triggers
 - User click on heart icon on the front-right of that flashcard.
@@ -273,7 +245,7 @@ With output flashcard:
 3.	Users choose folder to save in
 4.	System prompts the users confirm
 5.	Then users click option “Yes”
-6.	System saves that flashcard to the user’s folder
+6.	System saves that flashcard to the folder which user choose
 
 ##### Primary Postconditions
 - That flashcard is saved in user’s folder
