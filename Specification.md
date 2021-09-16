@@ -34,42 +34,42 @@ Everyone
 
 ##### Preconditions
 New User
-Have email account to sign up
+Have email account to sign up.
 ##### Triggers
 New user clicks on option “Join us”
 
 ##### Primary Sequence
-1.	New users click on option “Join us”
-2.	New users fill out some information such as first name, last name, date of birth, sex
-3.	New users create their username 
-4.	System checks the username is available or not
-5.	New users create their own password
-6.	System check password meet the requirement or not
-7.	New users enter their email
-8.	System check email was used or not
-9.	New users click summit option at the end of platform
-10.	System creates a new user 
-11.	System sends a confirmation email to the user’s email
+1.	New users click on option “Join us”.
+2.	New users fill out some information such as first name, last name, date of birth, sex.
+3.	New users create their username .
+4.	System checks the username is available or not.
+5.	New users create their own password.
+6.	System check password meet the requirement or not.
+7.	New users enter their email.
+8.	System check email was used or not.
+9.	New users click summit option at the end of platform.
+10.	System creates a new user. 
+11.	System sends a confirmation email to the user’s email.
 
 ##### Primary Postconditions
-Users can log in to use the app
+Users can log in to use the app.
 
 ##### Alternate Sequences
-•	Username which user enter, was used
-The system displays an error message to the user
-The system prompt user to enter a valid username
-•	Password which user enter, does not meet the requirement
-The system displays an error message to the user
-The system prompt user to enter a valid password
-•	Email which user enter, was used
-The system displays an error message to the user
-The system prompts user to enter a different email
+•	Username which user enter, was used.
+	The system displays an error message to the user.
+	The system prompt user to enter a valid username.
+•	Password which user enter, does not meet the requirement.
+	The system displays an error message to the user.
+	The system prompt user to enter a valid password.
+•	Email which user enter, was used.
+	The system displays an error message to the user.
+	The system prompts user to enter a different email.
 
 ##### Alternative Triggers
-Users enter information again until the system does not display error message
+Users enter information again until the system does not display error message.
 
 ##### Alternate Postconditions
-User can sign up
+User can sign up.
 
 
 
@@ -84,25 +84,39 @@ User can sign up
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** Delete an Account 
+
+##### Summary
+Users can delete an account if they want.
 
 ##### Actors
+All users
 
 ##### Preconditions
+Users must have an account.
 
 ##### Triggers
-
+Users click on option "Delete"
 
 ##### Primary Sequence
+1.	The user clicks on “setting” on menu bar.
+2.	The use clicks on “delete an account”
+3.	The system ask user again to confirm they want to delete an account.
+4.	Users click confirm (Yes)
+5.	System sends a confirmation to user’s email.
 
-**Primary Postconditions**
+##### Primary Postconditions
+Users cannot log in to system anymore.
 
-##### Alternate Trigger
+##### Alternate Sequences
+•	Users change their mind, or they click on delete an account by mistake.
+	System prompts the user to confirm.
 
-##### Alternative Sequences
+##### Alternative Trigger
+Users click on option "Cancel"
 
 ##### Alternate Postconditions
-
+Users still have an account to log in.
 
 
 
