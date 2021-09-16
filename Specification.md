@@ -1,25 +1,18 @@
-1. URL : https://github.com/UJDuran/milestoneOne_T6.git
+# **CMPE131 Project Team 6**
 
-2. Member name: Danh Pham [emthangtrung (github.com)](https://github.com/emthangtrung)
+#### Member name:
 
-   Member name : Ngoc Tran [ntran12 (github.com)] (https://github.com/ntran12)
+Danh Pham (https://github.com/emthangtrung)
 
-3. Member name : Ulises Duran [UJDuran (github.com)] (https://github.com/UJDuran)
+Ngoc Tran (https://github.com/ntran12)
 
-4. Hello, my name is Thinh, today is 9/14/2021
-   ( I just fix this line so it cannot be confict anymore)
-5. product name : StudyHub
+Ulises Duran (https://github.com/UJDuran)
 
-6. Use case
 
-   Time Management ( Danh ) :
 
-   - Create time blocks (using markdown)
-   - Use pomodoro timer.
-   - Visualize time blocks (similar to day view on google calendar)
-   - Add todo tracker
-   - Visualize hours worked and projects
+#### Main Github repo:
 
+<<<<<<< HEAD
 *Date*: 09/15/2021
 *Product Name:* StudyHub
 *Problem Statement:* Help student improve their learning through memorization flashcard, taking note and time management
@@ -76,3 +69,499 @@ Users enter information again until the system does not display error message
 ##Alternate Postconditions 
 Users can sign up
 
+=======
+https://github.com/UJDuran/milestoneOne_T6.git
+
+
+
+## Use Case #1 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #2 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #3 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #4 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #5 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #6 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #7 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #8 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #9 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #10 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #11 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #12 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #13 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #14 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+
+
+
+
+
+## Use Case #15 Description
+
+**Date:** 
+
+**Product Name:** Study Hub
+
+**Problem Statement:**
+
+**Non-functional Requirements:**
+
+**Use Case Name:** 
+
+##### Actors
+
+##### Preconditions
+
+##### Triggers
+
+
+##### Primary Sequence
+
+**Primary Postconditions**
+
+##### Alternate Trigger
+
+##### Alternative Sequences
+
+##### Alternate Postconditions
+>>>>>>> aad745684d496f79d265504747623ca1a90a8e59
