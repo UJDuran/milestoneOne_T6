@@ -178,13 +178,11 @@ c.	Users delete “##” before the word.
 1.	With input a markdown file: 
 a.	Users change their mind; they do not want to input a markdown file.
 
-<<<<<<< HEAD
 2.	With output flashcard: 
 a.	Users save or share without internet
 b.	System displays an error message to user.
 c.	System prompts user turn on internet.
- 
-=======
+
 **With input a markdown file** 
 Users change their mind; they do not want to input a markdown file.
 
@@ -193,8 +191,6 @@ Users save or share without internet.
 System displays an error message to user.
 System prompts user turn on internet.
 
-
->>>>>>> 583408df39638e5d9b3e0cfc9265e08e316d2043
 ##### Alternate Postconditions
 1	With input a markdown file.	
 a.	Uers successfully undo.
