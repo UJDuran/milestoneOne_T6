@@ -356,6 +356,8 @@ end case: go back to home
 
 ## Use Case #8 Render markdown notes
 
+![alt text](https://ataglanceanimehome.files.wordpress.com/2021/06/mugentrain.jpg)
+
 **Date:** 9/15/2021
 
 **Product Name:** Study Hub
