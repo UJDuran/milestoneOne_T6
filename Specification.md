@@ -259,7 +259,7 @@ Make user's folder clearly.
 
 **Use Case Name:** check answers
 
-##### Actors: Thinh Vo
+##### Actors: users
 
 ##### Preconditions: if answer is correct
 
