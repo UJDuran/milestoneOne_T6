@@ -61,17 +61,15 @@ Users can log in to use the app.
 Users enter information until the system does not display erroe message.
 
 ##### Alternate Sequences
-Username which user enter, was used.
-The system displays an error message to the user.
-The system prompt user to enter a valid username.
-
-Password which user enter, does not meet the requirement.
-The system displays an error message to the user.
-The system prompt user to enter a valid password.
-
-Email which user enter, was used.
-The system displays an error message to the user.
-The system prompts user to enter a different email.
+•	Username which user enter, was used
+o	The system displays an error message to the user
+o	The system prompt user to enter a valid username
+•	Password which user enter, does not meet the requirement
+o	The system displays an error message to the user
+o	The system prompt user to enter a valid password
+•	Email which user enter, was used
+o	The system displays an error message to the user
+o	The system prompts user to enter a different email
 
 ##### Alternate Postconditions
 User can sign up.
@@ -120,8 +118,9 @@ Users cannot log in to system anymore.
 Users click on option "Cancel"
 
 ##### Alternate Sequences
-Users change their mind, or they click on delete an account by mistake.
-System prompts the user to confirm.
+•	Users change their mind, or they click on delete an account by mistake
+o	System prompts the user to confirm
+o	User click cancel
 
 ##### Alternate Postconditions
 Users still have an account to log in.
@@ -241,6 +240,7 @@ Users click option “delete”
 
 ##### Alternative Squences
 Users change their mind that they don’t want to save.
+
 ##### Alternate Postconditions
 Make user's folder clearly.
 
