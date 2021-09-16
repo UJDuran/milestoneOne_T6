@@ -530,7 +530,7 @@ Users
 
 ## Use Case #12 Description
 
-**Date:** 
+**Date:** 09-15-2021 
 
 **Product Name:** Study Hub
 
@@ -538,24 +538,38 @@ Users
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name:** Quickly rename files using regular expressions
 
 ##### Actors
+User 
+Website
 
 ##### Preconditions
+File must exist
+File cannot be renamed the same name
 
 ##### Triggers
-
+1. User will click on the “Rename” button
 
 ##### Primary Sequence
+1. User clicks on the three dot icon next to the file
+2. User clicks on “Rename” button 
+3. User will write the expression
+4. The website will convert the expression
+5. The user will confirm the conversion
 
 **Primary Postconditions**
+1. File has been renamed
 
 ##### Alternate Trigger
+1. User did not type the Expression correctly
 
 ##### Alternative Sequences
+1. Website will give user an error
+2. User will fix error
 
 ##### Alternate Postconditions
+1. File has been renamed
 
 
 
