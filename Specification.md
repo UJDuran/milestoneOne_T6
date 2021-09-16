@@ -336,20 +336,26 @@ end case: go back to home
 
 **Product Name:** Study Hub
 
-**Problem Statement:** 
+**Problem Statement:** Creative solutions to problems
 
-**Non-functional Requirements:**
+**Non-functional Requirements:** Useability
 
-**Use Case Name:** 
+**Use Case Name:** Creative Solutions
 
-##### Actors: user
+##### Actors:
+ user
 
-##### Preconditions
+##### Preconditions:
+Flashcards
 
-##### Triggers
+##### Triggers:
+Solution for each flashcard
 
-
-##### Primary Sequence
+##### Primary Sequence:
+1. Select the best study subject
+2. Find study resources
+3. Search questions by multiple types
+4. Ask tutors for help
 
 **Primary Postconditions**
 
