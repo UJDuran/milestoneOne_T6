@@ -115,9 +115,9 @@ Users cannot log in to system anymore.
 Users click on option "Cancel"
 
 ##### Alternate Sequences
-1)	Users change their mind, or they click on delete an account by mistake.
- 	*System prompts the user to confirm.
- 	*User click cancel (No).
+Users change their mind, or they click on delete an account by mistake.
+- System prompts the user to confirm.
+- User click cancel (No).
 
 ##### Alternate Postconditions
 Users still have an account to log in.
@@ -146,8 +146,11 @@ Users have flashcards.
 Markdown file should be provide as input
 
 ##### Triggers
-1.	With input a markdown file: users input file
-2.	With output flashcard: click option “share” on the top-right of the flashcard.
+With input a markdown file: 
+- Users input file
+
+With output flashcard: 
+- Click option “share” on the top-right of the flashcard.
 
 ##### Primary Sequence
 With input markdown file:
@@ -165,32 +168,34 @@ With output flashcard:
 5.	Users confirm by clicking download/send.
 
 ##### Primary Postconditions
-1.	With input a markdown file: Make flashcard easier to read
+With input a markdown file: 
+- Make flashcard easier to read
 
-2.	With output flashcard: Can download their flashcard to phone, so users can see it everywhere. Also, users can share useful information to their friends.
+With output flashcard: 
+- Users can download their flashcard to phone, so users can see it everywhere. Also, users can share useful information to their friends.
 
 ##### Alternate Triggers
-1.	With input a markdown file: 
- 	*Users check the file is saved or not
+With input a markdown file: 
+- Users check the file is saved or not
 
-2.	With output flashcard: 
- 	*Users turn on internet in their phone.
+With output flashcard: 
+- Users turn on internet in their phone.
 
 ##### Alternate Squences
-1.	With input a markdown file: 
- 	*System display an error message if input file is not valid.
+With input a markdown file: 
+- System display an error message if input file is not valid.
 
-2.	With output flashcard: 
- 	*Users save or share without internet
- 	*System displays an error message to user.
- 	*System prompts user turn on internet.
+With output flashcard: 
+- Users save or share without internet
+- System displays an error message to user.
+- System prompts user turn on internet.
 
 ##### Alternate Postconditions
-1	With input a markdown file:	
- 	*Users successfully input a markdown file.
+With input a markdown file:	
+- Users successfully input a markdown file.
 
-2.	With output flashcard:
- 	*Users successfully download/send.
+With output flashcard:
+- Users successfully download/send.
 
 
 
@@ -254,31 +259,31 @@ Less flashcard in user's folder
 **Use Case Name:** check answers
 
 ##### Actors:
- users
+ Users
 
 ##### Preconditions:
- if answer is correct
+ If answer is correct
 
 ##### Triggers:
- flashcard to change their position automatically
+ Flashcard to change their position automatically
 
 ##### Primary Sequence: 
-1. get answer from user
-2. check answer
-3. if answer is corrected -> trigger flashcard to change
-4. else -> no change
+1. Get answer from user
+2. Check answer
+3. If answer is corrected -> trigger flashcard to change
+4. Else -> no change
 
 **Primary Postconditions**: answer must be filled
 
 ##### Alternate Trigger:
- prompt user to answer the questions
+ Prompt user to answer the questions
 
 ##### Alternative Sequences:
-1. if answer is blank -> prompt a message
-2. else -> trigger to check answer
+1. If answer is blank -> prompt a message
+2. Else -> trigger to check answer
 
 ##### Alternate Postconditions:
- save log
+ Save log
 
 
 
