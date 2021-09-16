@@ -502,8 +502,8 @@ User
 ##### Primary Sequence
 1. User goes to designated tab 
 2. User creates new graph by clicking "New Graph"
-3. User will select notes to draw connection to eachother                                                               4. User clicks on create graph                                                                                          5. System will prompt user to name graph
-4. User clicks on create graph                                                                                          5. System will prompt user to name graph
+3. User will select notes to draw connection to eachother                                                                                                                                                        5. System will prompt user to name graph
+4. User clicks on create graph                                                                                          
 5. System will prompt user to name graph
 6. User names and confirms it 
 
@@ -615,7 +615,7 @@ File cannot be renamed the same name
 
 
 
-## Use Case #13 Description
+## Use Case #13 Create time block
 
 **Date:** 9/15/2021
 
@@ -624,8 +624,6 @@ File cannot be renamed the same name
 **Problem Statement:** organize time flow 
 
 **Non-functional Requirements:** user
-
-**Use Case Name:** Create time block
 
 **Actors**: User
 
@@ -661,7 +659,7 @@ File cannot be renamed the same name
 
 
 
-## Use Case #14 Description
+## Use Case #14 use pomodoro timer
 
 **Date:** 9/15/2021
 
@@ -670,8 +668,6 @@ File cannot be renamed the same name
 **Problem Statement:** feature that user can track there time while studying
 
 **Non-functional Requirements:** timer can be display or non display for user
-
-**Use Case Name:** use pomodoro timer
 
 **Actors:** all user
 
@@ -687,29 +683,73 @@ File cannot be renamed the same name
 
 - Timer automatically alert when time ran out (No need human contact)
 
-**Primary Postconditions**
+**Primary Postconditions:**
 
-##### Alternate Trigger
+- User now have timer for their work and break time
 
-##### Alternative Sequences
+**Alternate Trigger:**
 
-##### Alternate Postconditions
+- Space or click for re-timing
+
+  
+
+**Alternate Postconditions:**
+
+User now can do their work or break with fix time for more efficiency
 
 
 
 
 
-## Use Case #15 Description
+## Use Case #15 visualize time blocks
 
-**Date:** 9/15/2021
+**Date:** 9/16/2021
+
+**Product Name:** Study Hub
+
+**Problem Statement:** help user see their time flow
+
+**Non-functional Requirements:** 
+
+- Able to make there scheduler private 
+
+**Actors:** User
+
+**Preconditions:**
+
+- User must create time block before to see 
+
+**Triggers:** 
+
+- Scroll mouse to see time flow
+- zoom in out for better view
+
+**Primary Sequence:**
+
+- User customize their time block 
+- Always appear on screen and never sleep
+
+**Primary Postconditions:**
+
+- User control their time flow
+
+**Alternate Trigger:** no need
+
+**Alternative Sequences:** Display where they at
+
+**Alternate Postconditions:**
+
+- User now can track their schedule more easy and attractive
+
+## Use Case #16 add to do tracker
+
+**Date:** 9/16/2021
 
 **Product Name:** Study Hub
 
 **Problem Statement:**
 
 **Non-functional Requirements:**
-
-**Use Case Name:** visualize time blocks
 
 ##### Actors
 
@@ -728,50 +768,21 @@ File cannot be renamed the same name
 
 ##### Alternate Postconditions
 
-## Use Case #16 Description
-
-**Date:** 9/15/2021
-
-**Product Name:** Study Hub
-
-**Problem Statement:**
-
-**Non-functional Requirements:**
-
-**Use Case Name:** add to do tracker
-
-##### Actors
-
-##### Preconditions
-
-##### Triggers
-
-
-##### Primary Sequence
-
-**Primary Postconditions**
-
-##### Alternate Trigger
-
-##### Alternative Sequences
-
-##### Alternate Postconditions
 
 
 
 
+## Use Case #17 visualize hours worked and project
 
-## Use Case #17 Description
-
-**Date:** 9/15/2021
+**Date:** 9/16/2021
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** 
+
+- User want to know how much time they spent on their work and project
 
 **Non-functional Requirements:**
-
-**Use Case Name:** visualize hours worked and project
 
 ##### Actors
 
