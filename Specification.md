@@ -18,7 +18,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 
 
-## Use Case #1 Description
+## Use Case #1: Create an Account
 
 **Date:** 09/15/2021
 
@@ -77,7 +77,7 @@ User can sign up.
 
 
 
-## Use Case #2 Description
+## Use Case #2: Delete an Account 
 
 **Date:** 09/15/2021
 
@@ -125,7 +125,7 @@ Users still have an account to log in.
 
 
 
-## Use Case #3 Description
+## Use Case #3: Input a markdown file and output flash cards.
 
 **Date:** 09/15/2021 
 
@@ -201,7 +201,7 @@ b.	Users successfully download/send.
 
 
 
-## Use Case #4 Description
+## Use Case #4: Share flash cards (add to their account) 
 
 **Date:** 09/15/2021 
 
@@ -429,7 +429,7 @@ add many functions as needed
 
 
 
-## Use Case #9 Description
+## Use Case #9: Converts marked down notes to pdf 
 
 **Date:** 09-15-2021 
 
@@ -476,7 +476,7 @@ A hard copy of pdf has been printed
 
 
 
-## Use Case #10 Description
+## Use Case #10: Create graph (nodes and edges) of connection between notes
 
 **Date:** 09-15-2021 
 
@@ -525,7 +525,7 @@ User
 
 
 
-## Use Case #11 Description
+## Use Case #11: Share Notes With Other People 
 
 **Date:** 09-15-2021 
 
@@ -568,7 +568,7 @@ Users
 
 
 
-## Use Case #12 Description
+## Use Case #12: Quickly rename files using regular expressions
 
 **Date:** 09-15-2021 
 
