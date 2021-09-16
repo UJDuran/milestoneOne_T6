@@ -389,7 +389,7 @@ end case: go back to home
 
 ## Use Case #9 Description
 
-**Date:** 
+**Date: 09-15-2021 
 
 **Product Name:** Study Hub
 
@@ -397,24 +397,38 @@ end case: go back to home
 
 **Non-functional Requirements:**
 
-**Use Case Name:** 
+**Use Case Name: Converts marked down notes to pdf 
 
 ##### Actors
+User
 
 ##### Preconditions
+Notes must exist (either from another user or ther own)
+Notes must me marked
 
 ##### Triggers
-
+User clicks on "Conver to PDF"
 
 ##### Primary Sequence
+1. User confrims the pdf conversion
+2. System asks user to pick a destination for PDF
+3. User picks destination for PDF
+4. Message displays that file has been downloaded
 
-**Primary Postconditions**
+##Primary Postconditions
+Pdf has been created in users desired destination
 
 ##### Alternate Trigger
+User clicks on "Print" button when asked to convert to pdf
 
 ##### Alternative Sequences
+1. User confirms the pdf 
+2. User has an option to print instead of saving
+3. User picks printer destination
+4. Message displays that file has been printed
 
 ##### Alternate Postconditions
+A hard copy of pdf has been printed 
 
 
 
