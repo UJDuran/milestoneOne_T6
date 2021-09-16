@@ -1,6 +1,9 @@
 [![Logo fonts](https://see.fontimg.com/api/renderfont4/BW0ox/eyJyIjoiZnMiLCJoIjozOCwidyI6MTAwMCwiZnMiOjM4LCJmZ2MiOiIjQUZBMzUyIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q01QRSAxMzEgVGVhbSA2/aquire.png)]()
 
-<a href=""><img src="https://i.ibb.co/cTKmRgG/StudyHub.png" alt="StudyHub" border="0"></a><br /><a target='_blank' href=''></a><br />
+
+[![StudyHub.jpg](https://i.postimg.cc/zf0ny6vD/StudyHub.jpg)](https://postimg.cc/yJ3J5f02)
+
+
 #### Member name:
 
 Danh Pham (https://github.com/emthangtrung)
