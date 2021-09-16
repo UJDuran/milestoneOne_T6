@@ -817,19 +817,39 @@ With output flashcard:
 
 **Non-functional Requirements:**
 
-##### Actors
+- graph of work times and work log
 
-##### Preconditions
+**Actors:** User, Manager
 
-##### Triggers
+**Preconditions:** no need 
 
+##### Triggers:
+
+- User selects "time tracker" button
 
 ##### Primary Sequence
 
-**Primary Postconditions**
+- System will appear their total work time in day, week, and month
+- User select columm graph for more visuallize
 
-##### Alternate Trigger
+**Primary Postconditions:**
+
+- manager can track how much time their co-worker or student spent time on
+
+- regular user can know how much time they spent on work
+
+  
+
+##### Alternate Trigger: 
+
+- User click "Create .xlss file" for excel data
 
 ##### Alternative Sequences
 
-##### Alternate Postconditions
+- Export excel file 
+
+##### Alternate Postconditions:
+
+- Calculate salary or grade student on what they have done
+
+  
