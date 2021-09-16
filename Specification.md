@@ -466,7 +466,7 @@ User
 4. User clicks on create graph                                                                                          5. System will prompt user to name graph
 5. System will prompt user to name graph
 6. User names and confirms it 
- 
+
 **Primary Postconditions**
 1. A graph is created between selected notes 
 
@@ -511,7 +511,7 @@ Users
 1. User goes to desired note they want to share
 2. User clicks on "Share Notes"
 3. User will confirm if they want to share
- 
+
 **Primary Postconditions**
 1. User has shared their notes
 
@@ -581,28 +581,41 @@ File cannot be renamed the same name
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** organize time flow 
 
 **Non-functional Requirements:** user
 
 **Use Case Name:** Create time block
 
-##### Actors
+**Actors**: User
 
-##### Preconditions
+**Preconditions:** no need 
 
-##### Triggers
+**Triggers:** 
 
+- Click and drag to create time block
 
 ##### Primary Sequence
 
+- User can edit color
+- Set reminder if need
+
 **Primary Postconditions**
 
-##### Alternate Trigger
+- Attracted interphase
+- Increase concentration
 
-##### Alternative Sequences
+**Alternate Trigger:**
 
-##### Alternate Postconditions
+- User can click and drag time block to another time frame if want make change
+
+**Alternative Sequences:**
+
+- User click on view time block to add description if need
+
+**Alternate Postconditions:**
+
+- User can view their creation
 
 
 
@@ -630,7 +643,9 @@ File cannot be renamed the same name
 
 - Timer can be start when user hit "SPACE"
 
-**Primary Sequence:** Timer will alert when time ran out
+**Primary Sequence:** 
+
+- Timer automatically alert when time ran out (No need human contact)
 
 **Primary Postconditions**
 
