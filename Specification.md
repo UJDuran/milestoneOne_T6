@@ -61,21 +61,16 @@ Users can log in to use the app.
 Users enter information until the system does not display erroe message.
 
 ##### Alternate Sequences
-•Username which user enter, was used.
-
+Username which user enter, was used.
 The system displays an error message to the user.
-
 The system prompt user to enter a valid username.
 
-•Password which user enter, does not meet the requirement.
+Password which user enter, does not meet the requirement.
 The system displays an error message to the user.
-
 The system prompt user to enter a valid password.
 
-•Email which user enter, was used.
-
+Email which user enter, was used.
 The system displays an error message to the user.
-
 The system prompts user to enter a different email.
 
 ##### Alternate Postconditions
@@ -125,7 +120,7 @@ Users cannot log in to system anymore.
 Users click on option "Cancel"
 
 ##### Alternate Sequences
-•Users change their mind, or they click on delete an account by mistake.
+Users change their mind, or they click on delete an account by mistake.
 System prompts the user to confirm.
 
 ##### Alternate Postconditions
@@ -179,24 +174,22 @@ With input a markdown file: Make flashcard easier to read
 
 With output flashcard: Can download their flashcard to phone, so users can see it everywhere. Also, users can share useful information to their friends.
 
-#####Alternate Triggers
-•	With input a markdown file: 
-		Users select that flashcard, click option “edit”
-		Users delete “##” before the word.
+##### Alternate Triggers
+**With input a markdown file:** 
+Users select that flashcard, click option “edit”
+Users delete “##” before the word.
 
-•	With output flashcard: Users turn on internet in their phone
+**With output flashcard:**
+Users turn on internet in their phone
 
 ##### Alternate Squences
-•With input a markdown file: 
 
+**With input a markdown file** 
 Users change their mind; they do not want to input a markdown file.
 
-•With output flashcard: 
-
-Users save or share without internet
-
+**With output flashcard**
+Users save or share without internet.
 System displays an error message to user.
-
 System prompts user turn on internet.
  
 
