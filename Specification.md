@@ -222,13 +222,13 @@ end case: go back to home
 
 
 
-## Use Case #7 Description
+## Use Case #7 Mind map of flash cards
 
-**Date:** 
+**Date: 9/15/2021
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** 
 
 **Non-functional Requirements:**
 
