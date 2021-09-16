@@ -1,4 +1,5 @@
-# **CMPE131 Project Team 6**
+[![Logo fonts](https://see.fontimg.com/api/renderfont4/BW0ox/eyJyIjoiZnMiLCJoIjozOCwidyI6MTAwMCwiZnMiOjM4LCJmZ2MiOiIjQUZBMzUyIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q01QRSAxMzEgVGVhbSA2/aquire.png)]()
+
 <a href=""><img src="https://i.ibb.co/cTKmRgG/StudyHub.png" alt="StudyHub" border="0"></a><br /><a target='_blank' href=''></a><br />
 #### Member name:
 
@@ -17,7 +18,7 @@ https://github.com/UJDuran/milestoneOne_T6.git
 
 
 
-## Use Case #1 Description
+## Use Case #1: Create an Account
 
 **Date:** 09/15/2021
 
@@ -79,7 +80,7 @@ User can sign up.
 
 
 
-## Use Case #2 Description
+## Use Case #2: Delete an Account 
 
 **Date:** 09/15/2021
 
@@ -127,7 +128,7 @@ Users still have an account to log in.
 
 
 
-## Use Case #3 Description
+## Use Case #3: Input a markdown file and output flash cards.
 
 **Date:** 09/15/2021 
 
@@ -203,7 +204,7 @@ b.	Users successfully download/send.
 
 
 
-## Use Case #4 Description
+## Use Case #4: Share flash cards (add to their account) 
 
 **Date:** 09/15/2021 
 
@@ -339,28 +340,45 @@ end case: go back to home
 
 **Product Name:** Study Hub
 
-**Problem Statement:** 
+**Problem Statement:** Creative solutions to problems
 
-**Non-functional Requirements:**
+**Non-functional Requirements:** Useability
 
-**Use Case Name:** 
+**Use Case Name:** Creative Solutions
 
-##### Actors: user
+##### Actors:
+ user
 
-##### Preconditions
+##### Preconditions:
+Flashcards
 
-##### Triggers
+##### Triggers:
+Solution for each flashcard
+A chat box with tutor
 
-
-##### Primary Sequence
+##### Primary Sequence:
+1. Select the best study subject
+2. Find study resources
+3. Search questions by multiple types
+4. Ask tutors for help
+5. Practice
 
 **Primary Postconditions**
+Help users learn from flash cards 
+##### Alternate Trigger:
+1. a search box
+2. a filter
+3. a chat box
+4. email box
 
-##### Alternate Trigger
+##### Alternative Sequences:
+1. if user click search -> trigger a filter
+2. find best match materials word by word
+3. if problem not found -> trigger to chat box
+4. find the best match tutor
 
-##### Alternative Sequences
-
-##### Alternate Postconditions
+##### Alternate Postconditions:
+Submit question and wait for respond
 
 
 
@@ -368,38 +386,53 @@ end case: go back to home
 
 ## Use Case #8 Render markdown notes
 
-**Date:** 9/15/2021
+**Date:** 9/16/2021
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** Plaint text formatting
 
-**Non-functional Requirements:**
+**Non-functional Requirements:** Quality
 
-**Use Case Name:** 
+**Use Case Name:** Markdown
 
-##### Actors: users
+##### Actors:
+ users
 
-##### Preconditions
+##### Preconditions:
+software testing
 
-##### Triggers
+##### Triggers:
+pdf, html, docx, xml, etc..
 
-
-##### Primary Sequence
-
-**Primary Postconditions**
-
-##### Alternate Trigger
-
-##### Alternative Sequences
-
-##### Alternate Postconditions
-
-
+##### Primary Sequence:
+1. a design
+2. content    
+3. domain
+4. create the site
+5. search engines
+6. launch
 
 
+**Primary Postconditions**:
+Good design
 
-## Use Case #9 Description
+##### Alternate Trigger:
+export to Docx, pdf, html, etc.
+
+##### Alternative Sequences:
+1. add extra features
+2. redesign
+3. more capacity
+
+##### Alternate Postconditions:
+add many functions as needed
+
+
+
+
+
+## Use Case #9: Converts marked down notes to pdf 
 
 **Date:** 09-15-2021 
 
@@ -446,7 +479,7 @@ A hard copy of pdf has been printed
 
 
 
-## Use Case #10 Description
+## Use Case #10: Create graph (nodes and edges) of connection between notes
 
 **Date:** 09-15-2021 
 
@@ -472,8 +505,8 @@ User
 ##### Primary Sequence
 1. User goes to designated tab 
 2. User creates new graph by clicking "New Graph"
-3. User will select notes to draw connection to eachother                                                               4. User clicks on create graph                                                                                          5. System will prompt user to name graph
-4. User clicks on create graph                                                                                          5. System will prompt user to name graph
+3. User will select notes to draw connection to eachother                                                                                                                                                        5. System will prompt user to name graph
+4. User clicks on create graph                                                                                          
 5. System will prompt user to name graph
 6. User names and confirms it 
 
@@ -495,7 +528,7 @@ User
 
 
 
-## Use Case #11 Description
+## Use Case #11: Share Notes With Other People 
 
 **Date:** 09-15-2021 
 
@@ -538,7 +571,7 @@ Users
 
 
 
-## Use Case #12 Description
+## Use Case #12: Quickly rename files using regular expressions
 
 **Date:** 09-15-2021 
 
@@ -585,7 +618,7 @@ File cannot be renamed the same name
 
 
 
-## Use Case #13 Description
+## Use Case #13 Create time block
 
 **Date:** 9/15/2021
 
@@ -594,8 +627,6 @@ File cannot be renamed the same name
 **Problem Statement:** organize time flow 
 
 **Non-functional Requirements:** user
-
-**Use Case Name:** Create time block
 
 **Actors**: User
 
@@ -631,7 +662,7 @@ File cannot be renamed the same name
 
 
 
-## Use Case #14 Description
+## Use Case #14 use pomodoro timer
 
 **Date:** 9/15/2021
 
@@ -640,8 +671,6 @@ File cannot be renamed the same name
 **Problem Statement:** feature that user can track there time while studying
 
 **Non-functional Requirements:** timer can be display or non display for user
-
-**Use Case Name:** use pomodoro timer
 
 **Actors:** all user
 
@@ -657,29 +686,73 @@ File cannot be renamed the same name
 
 - Timer automatically alert when time ran out (No need human contact)
 
-**Primary Postconditions**
+**Primary Postconditions:**
 
-##### Alternate Trigger
+- User now have timer for their work and break time
 
-##### Alternative Sequences
+**Alternate Trigger:**
 
-##### Alternate Postconditions
+- Space or click for re-timing
+
+  
+
+**Alternate Postconditions:**
+
+User now can do their work or break with fix time for more efficiency
 
 
 
 
 
-## Use Case #15 Description
+## Use Case #15 visualize time blocks
 
-**Date:** 9/15/2021
+**Date:** 9/16/2021
+
+**Product Name:** Study Hub
+
+**Problem Statement:** help user see their time flow
+
+**Non-functional Requirements:** 
+
+- Able to make there scheduler private 
+
+**Actors:** User
+
+**Preconditions:**
+
+- User must create time block before to see 
+
+**Triggers:** 
+
+- Scroll mouse to see time flow
+- zoom in out for better view
+
+**Primary Sequence:**
+
+- User customize their time block 
+- Always appear on screen and never sleep
+
+**Primary Postconditions:**
+
+- User control their time flow
+
+**Alternate Trigger:** no need
+
+**Alternative Sequences:** Display where they at
+
+**Alternate Postconditions:**
+
+- User now can track their schedule more easy and attractive
+
+## Use Case #16 add to do tracker
+
+**Date:** 9/16/2021
 
 **Product Name:** Study Hub
 
 **Problem Statement:**
 
 **Non-functional Requirements:**
-
-**Use Case Name:** visualize time blocks
 
 ##### Actors
 
@@ -698,50 +771,21 @@ File cannot be renamed the same name
 
 ##### Alternate Postconditions
 
-## Use Case #16 Description
-
-**Date:** 9/15/2021
-
-**Product Name:** Study Hub
-
-**Problem Statement:**
-
-**Non-functional Requirements:**
-
-**Use Case Name:** add to do tracker
-
-##### Actors
-
-##### Preconditions
-
-##### Triggers
-
-
-##### Primary Sequence
-
-**Primary Postconditions**
-
-##### Alternate Trigger
-
-##### Alternative Sequences
-
-##### Alternate Postconditions
 
 
 
 
+## Use Case #17 visualize hours worked and project
 
-## Use Case #17 Description
-
-**Date:** 9/15/2021
+**Date:** 9/16/2021
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:** 
+
+- User want to know how much time they spent on their work and project
 
 **Non-functional Requirements:**
-
-**Use Case Name:** visualize hours worked and project
 
 ##### Actors
 
