@@ -285,32 +285,37 @@ Make user's folder clearly.
 
 ## Use Case #6 Description
 
-**Date:** 
+**Date:** 9/15/2021 8:10 pm 
 
 **Product Name:** Study Hub
 
-**Problem Statement:**
+**Problem Statement:**Create pdf of flash card to print
 
-**Non-functional Requirements:**
+**Non-functional Requirements:**quality
 
-**Use Case Name:** 
+**Use Case Name:** create pdf file
 
-##### Actors
+##### Actors: users
 
-##### Preconditions
+##### Preconditions: a "Print" button
 
-##### Triggers
+##### Triggers: create pdf method
 
 
-##### Primary Sequence
+##### Primary Sequence: 
+1. when button is clicked -> trigger to print
 
-**Primary Postconditions**
+**Primary Postconditions**: answer can be filled or unfilled
 
-##### Alternate Trigger
+##### Alternate Trigger: prompt user to [Yes] to print [No] to cancel
 
-##### Alternative Sequences
+##### Alternative Sequences: 
+1. if button is clicked -> prompt a message
+2. if user choose [Yes] -> trigger to print
+3. else -> trigger to cancel
 
-##### Alternate Postconditions
+##### Alternate Postconditions:
+end case: go back to home
 
 
 
