@@ -1,5 +1,5 @@
 # **CMPE131 Project Team 6**
-<a href="https://ibb.co/88nhGKW"><img src="https://i.ibb.co/cTKmRgG/StudyHub.png" alt="StudyHub" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'></a><br />
+<a href=""><img src="https://i.ibb.co/cTKmRgG/StudyHub.png" alt="StudyHub" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'></a><br />
 #### Member name:
 
 Danh Pham (https://github.com/emthangtrung)
