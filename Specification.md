@@ -59,16 +59,16 @@ Users enter information in section where the system displays error again until t
 
 ##### Alternate Sequences
 1)	Username which user enter, was used
-*The system displays an error message to the user
-*The system prompt user to enter a valid username
+	*The system displays an error message to the user
+	*The system prompt user to enter a valid username
 
 2)	Password which user enter, does not meet the requirement
-*The system displays an error message to the user
-*The system prompt user to enter a valid password
+	*The system displays an error message to the user
+	*The system prompt user to enter a valid password
 
 3)	Email which user enter, was used
-*The system displays an error message to the user
-*The system prompts user to enter a different email
+	*The system displays an error message to the user
+	*The system prompts user to enter a different email
 
 ##### Alternate Postconditions
 User can sign up.
