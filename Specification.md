@@ -653,16 +653,17 @@ With output flashcard:
 
 ##### Primary Sequence
 
-- system prompt user to create their block by drag to specific time
+1. system prompt user to create their block by drag to specific time
 
-- user select time to input there work and task
+2. user select time to input there work and task
 
-- user can input what they need in time block
+3. user can input what they need in time block
 
 **Primary Postconditions**
 
-- User feel good with  attracted interphase 
-- Increase concentration
+1. User feel good with  attracted interphase 
+
+2. Increase concentration
 
 **Alternate Trigger:**
 
@@ -694,9 +695,9 @@ With output flashcard:
 
 **Primary Sequence:** 
 
-- User input their work time and begin countdown
+1. User input their work time and begin countdown
 
-- Timer automatically alert when time ran out (No need human interaction)
+2. Timer automatically alert when time ran out (No need human interaction)
 
 **Primary Postconditions:**
 
@@ -735,13 +736,15 @@ With output flashcard:
 
 **Primary Sequence:**
 
-- User customize their time block 
-- Always appear on screen and never sleep
+1. User customize their time block 
+
+2. Always appear on screen and never sleep
 
 **Primary Postconditions:**
 
-- User control their time flow
-- User now can track their schedule more easy and attractive
+1. User control their time flow
+
+2. User now can track their schedule more easy and attractive
 
 
 
@@ -769,16 +772,15 @@ With output flashcard:
 
 ##### Primary Sequence:
 
-- User input there task
-- Tick for mark as done job
+1. User input there task
+
+2. Tick for mark as done job
 
 **Primary Postconditions**
 
 - User can see what they have done to keep work flow more efficient
 
-##### 
 
-##### 
 
 ## Use Case #17 visualize hours worked and project
 
@@ -804,16 +806,17 @@ With output flashcard:
 
 ##### Primary Sequence
 
-- System will appear their total work time in day, week, and month
-- User select columm graph for more visuallize
+1. System will appear their total work time in day, week, and month
+
+2. User select columm graph for more visuallize
 
 **Primary Postconditions:**
 
-- manager can track how much time their co-worker or student spent time on
+1. manager can track how much time their co-worker or student spent time on
 
-- regular user can know how much time they spent on work
+2. regular user can know how much time they spent on work
 
-  
+
 
 ##### Alternate Trigger: 
 
